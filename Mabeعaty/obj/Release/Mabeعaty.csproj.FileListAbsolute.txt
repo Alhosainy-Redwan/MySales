@@ -1,0 +1,12 @@
+C:\Users\Musta\source\repos\Mabeعaty\Mabeعaty\bin\Release\Mabeعaty.exe.config
+C:\Users\Musta\source\repos\Mabeعaty\Mabeعaty\bin\Release\Mabeعaty.exe
+C:\Users\Musta\source\repos\Mabeعaty\Mabeعaty\bin\Release\Mabeعaty.pdb
+C:\Users\Musta\source\repos\Mabeعaty\Mabeعaty\obj\Release\Mabeعaty.frmLogin.resources
+C:\Users\Musta\source\repos\Mabeعaty\Mabeعaty\obj\Release\Mabeعaty.Properties.Resources.resources
+C:\Users\Musta\source\repos\Mabeعaty\Mabeعaty\obj\Release\Mabeعaty.csproj.GenerateResource.cache
+C:\Users\Musta\source\repos\Mabeعaty\Mabeعaty\obj\Release\Mabeعaty.exe
+C:\Users\Musta\source\repos\Mabeعaty\Mabeعaty\obj\Release\Mabeعaty.pdb
+C:\Users\Musta\source\repos\Mabeعaty\Mabeعaty\obj\Release\Mabeعaty.frmMain.resources
+C:\Users\Musta\source\repos\Mabeعaty\Mabeعaty\obj\Release\Mabeعaty.frmAbout.resources
+C:\Users\Musta\source\repos\Mabeعaty\Mabeعaty\obj\Release\Mabeعaty.frmRemoveCat.resources
+C:\Users\Musta\source\repos\Mabeعaty\Mabeعaty\obj\Release\Mabeعaty.frmRemoveProd.resources

@@ -1,0 +1,45 @@
+C:\Users\Musta\source\repos\Mabeعaty\Mabeعaty\bin\Debug\Mabeعaty.exe.config
+C:\Users\Musta\source\repos\Mabeعaty\Mabeعaty\bin\Debug\Mabeعaty.exe
+C:\Users\Musta\source\repos\Mabeعaty\Mabeعaty\bin\Debug\Mabeعaty.pdb
+C:\Users\Musta\source\repos\Mabeعaty\Mabeعaty\obj\Debug\Mabeعaty.frmLogin.resources
+C:\Users\Musta\source\repos\Mabeعaty\Mabeعaty\obj\Debug\Mabeعaty.frmMain.resources
+C:\Users\Musta\source\repos\Mabeعaty\Mabeعaty\obj\Debug\Mabeعaty.Properties.Resources.resources
+C:\Users\Musta\source\repos\Mabeعaty\Mabeعaty\obj\Debug\Mabeعaty.csproj.GenerateResource.cache
+C:\Users\Musta\source\repos\Mabeعaty\Mabeعaty\obj\Debug\Mabeعaty.exe
+C:\Users\Musta\source\repos\Mabeعaty\Mabeعaty\obj\Debug\Mabeعaty.pdb
+C:\Users\Musta\source\repos\Mabeعaty\Mabeعaty\obj\Debug\Mabeعaty.frmRemoveCat.resources
+C:\Users\Musta\source\repos\Mabeعaty\Mabeعaty\obj\Debug\Mabeعaty.frmRemoveProd.resources
+C:\Users\Musta\source\repos\Mabeعaty\Mabeعaty\obj\Debug\Mabeعaty.frmAbout.resources
+C:\Users\Musta\source\repos\Mabeعaty\Mabeعaty\obj\Debug\Mabeعaty.frmAddCat.resources
+C:\Users\Musta\source\repos\Mabeعaty\Mabeعaty\obj\Debug\Mabeعaty.frmModifyCat.resources
+C:\Users\Musta\source\repos\Mabeعaty\Mabeعaty\obj\Debug\Mabeعaty.frmAddProd.resources
+C:\Users\Musta\source\repos\Mabeعaty\Mabeعaty\obj\Debug\Mabeعaty.csprojAssemblyReference.cache
+C:\Users\Musta\source\repos\Mabeعaty\Mabeعaty\obj\Debug\Mabeعaty.frmModifyProd.resources
+G:\رابعه حاسبات\2020\Second Term\Software Engineering\project\Mabeعaty\Mabeعaty\Mabeعaty\bin\Debug\Mabeعaty.exe.config
+G:\رابعه حاسبات\2020\Second Term\Software Engineering\project\Mabeعaty\Mabeعaty\Mabeعaty\bin\Debug\Mabeعaty.exe
+G:\رابعه حاسبات\2020\Second Term\Software Engineering\project\Mabeعaty\Mabeعaty\Mabeعaty\bin\Debug\Mabeعaty.pdb
+G:\رابعه حاسبات\2020\Second Term\Software Engineering\project\Mabeعaty\Mabeعaty\Mabeعaty\bin\Debug\EntityFramework.dll
+G:\رابعه حاسبات\2020\Second Term\Software Engineering\project\Mabeعaty\Mabeعaty\Mabeعaty\bin\Debug\EntityFramework.SqlServer.dll
+G:\رابعه حاسبات\2020\Second Term\Software Engineering\project\Mabeعaty\Mabeعaty\Mabeعaty\bin\Debug\System.Data.SQLite.dll
+G:\رابعه حاسبات\2020\Second Term\Software Engineering\project\Mabeعaty\Mabeعaty\Mabeعaty\bin\Debug\System.Data.SQLite.EF6.dll
+G:\رابعه حاسبات\2020\Second Term\Software Engineering\project\Mabeعaty\Mabeعaty\Mabeعaty\bin\Debug\System.Data.SQLite.Linq.dll
+G:\رابعه حاسبات\2020\Second Term\Software Engineering\project\Mabeعaty\Mabeعaty\Mabeعaty\bin\Debug\EntityFramework.xml
+G:\رابعه حاسبات\2020\Second Term\Software Engineering\project\Mabeعaty\Mabeعaty\Mabeعaty\bin\Debug\EntityFramework.SqlServer.xml
+G:\رابعه حاسبات\2020\Second Term\Software Engineering\project\Mabeعaty\Mabeعaty\Mabeعaty\bin\Debug\System.Data.SQLite.xml
+G:\رابعه حاسبات\2020\Second Term\Software Engineering\project\Mabeعaty\Mabeعaty\Mabeعaty\bin\Debug\System.Data.SQLite.dll.config
+G:\رابعه حاسبات\2020\Second Term\Software Engineering\project\Mabeعaty\Mabeعaty\Mabeعaty\obj\Debug\Mabeعaty.csprojAssemblyReference.cache
+G:\رابعه حاسبات\2020\Second Term\Software Engineering\project\Mabeعaty\Mabeعaty\Mabeعaty\obj\Debug\Mabeعaty.frmAbout.resources
+G:\رابعه حاسبات\2020\Second Term\Software Engineering\project\Mabeعaty\Mabeعaty\Mabeعaty\obj\Debug\Mabeعaty.frmAddCat.resources
+G:\رابعه حاسبات\2020\Second Term\Software Engineering\project\Mabeعaty\Mabeعaty\Mabeعaty\obj\Debug\Mabeعaty.frmAddProd.resources
+G:\رابعه حاسبات\2020\Second Term\Software Engineering\project\Mabeعaty\Mabeعaty\Mabeعaty\obj\Debug\Mabeعaty.frmLogin.resources
+G:\رابعه حاسبات\2020\Second Term\Software Engineering\project\Mabeعaty\Mabeعaty\Mabeعaty\obj\Debug\Mabeعaty.frmMain.resources
+G:\رابعه حاسبات\2020\Second Term\Software Engineering\project\Mabeعaty\Mabeعaty\Mabeعaty\obj\Debug\Mabeعaty.frmModifyCat.resources
+G:\رابعه حاسبات\2020\Second Term\Software Engineering\project\Mabeعaty\Mabeعaty\Mabeعaty\obj\Debug\Mabeعaty.frmModifyProd.resources
+G:\رابعه حاسبات\2020\Second Term\Software Engineering\project\Mabeعaty\Mabeعaty\Mabeعaty\obj\Debug\Mabeعaty.frmRemoveCat.resources
+G:\رابعه حاسبات\2020\Second Term\Software Engineering\project\Mabeعaty\Mabeعaty\Mabeعaty\obj\Debug\Mabeعaty.frmRemoveProd.resources
+G:\رابعه حاسبات\2020\Second Term\Software Engineering\project\Mabeعaty\Mabeعaty\Mabeعaty\obj\Debug\Mabeعaty.Properties.Resources.resources
+G:\رابعه حاسبات\2020\Second Term\Software Engineering\project\Mabeعaty\Mabeعaty\Mabeعaty\obj\Debug\Mabeعaty.csproj.GenerateResource.cache
+G:\رابعه حاسبات\2020\Second Term\Software Engineering\project\Mabeعaty\Mabeعaty\Mabeعaty\obj\Debug\Mabeعaty.csproj.CoreCompileInputs.cache
+G:\رابعه حاسبات\2020\Second Term\Software Engineering\project\Mabeعaty\Mabeعaty\Mabeعaty\obj\Debug\Mabeعaty.csproj.CopyComplete
+G:\رابعه حاسبات\2020\Second Term\Software Engineering\project\Mabeعaty\Mabeعaty\Mabeعaty\obj\Debug\Mabeعaty.exe
+G:\رابعه حاسبات\2020\Second Term\Software Engineering\project\Mabeعaty\Mabeعaty\Mabeعaty\obj\Debug\Mabeعaty.pdb
